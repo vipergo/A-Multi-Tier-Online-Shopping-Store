@@ -28,7 +28,9 @@ public class Main {
 			System.out.println("please type CatalogServer/OrderServer/FrontendServer/client");
 		}
 		*/
-		FrontendServer f_server = new FrontendServer("localhost", "localhost");
-		f_server.start();
+		//FrontendServer f_server = new FrontendServer("localhost", "localhost");
+		//f_server.start();
+		CatalogServer cat_server = new CatalogServer("localhost", "localhost");
+		cat_server.start();
 	}
 }

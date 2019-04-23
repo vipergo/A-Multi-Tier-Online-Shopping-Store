@@ -13,19 +13,19 @@ public class dbUtil {
 		Connection connection = null;
 		try{
 			// create a database connection
-			connection = DriverManager.getConnection("jdbc:sqlite:lab2.db");
+			connection = DriverManager.getConnection("jdbc:sqlite:lab3.db");
 			Statement statement = connection.createStatement();
 			statement.setQueryTimeout(30);  // set timeout to 30 sec.
 
 			statement.executeUpdate("drop table if exists book");
 			statement.executeUpdate("create table book (id integer, title string, topic string, price double, quantity integer)");
-			statement.executeUpdate("insert into book values(1, 'How to get a good grade in 677 in 20 minutes a day.', 'distributed_systems', 100, 5)");
-			statement.executeUpdate("insert into book values(2, 'RPCs for Dummies.', 'distributed_systems', 20, 4)");
-			statement.executeUpdate("insert into book values(3, 'Xen and the Art of Surviving Graduate School.', 'graduate_school', 200, 3)");
-			statement.executeUpdate("insert into book values(4, 'Cooking for the Impatient Graduate Student.', 'graduate_school', 250, 2)");
-			statement.executeUpdate("insert into book values(5, 'How to finish Project 3 on time', 'lab3', 1000, 6)");
-			statement.executeUpdate("insert into book values(6, 'Why theory classes are so hard', 'lab3', 1000, 7)");
-			statement.executeUpdate("insert into book values(7, 'Spring in the Pioneer Valley', 'lab3', 1000, 8)");
+			statement.executeUpdate("insert into book values(1, 'How to get a good grade in 677 in 20 minutes a day.', 'distributed_systems', 100, 2000)");
+			statement.executeUpdate("insert into book values(2, 'RPCs for Dummies.', 'distributed_systems', 20, 2000)");
+			statement.executeUpdate("insert into book values(3, 'Xen and the Art of Surviving Graduate School.', 'graduate_school', 200, 2000)");
+			statement.executeUpdate("insert into book values(4, 'Cooking for the Impatient Graduate Student.', 'graduate_school', 250, 2000)");
+			statement.executeUpdate("insert into book values(5, 'How to finish Project 3 on time', 'lab3', 1000, 2000)");
+			statement.executeUpdate("insert into book values(6, 'Why theory classes are so hard', 'lab3', 1000, 2000)");
+			statement.executeUpdate("insert into book values(7, 'Spring in the Pioneer Valley', 'lab3', 1000, 2000)");
 			ResultSet rs = statement.executeQuery("select * from book");
 			while(rs.next()){
 				// read the result set
@@ -54,7 +54,7 @@ public class dbUtil {
 		Connection connection = null;
 		try{
 			// create a database connection
-			connection = DriverManager.getConnection("jdbc:sqlite:lab2.db");
+			connection = DriverManager.getConnection("jdbc:sqlite:lab3.db");
 			if(quantity>=0){
 				PreparedStatement pstmt = connection.prepareStatement("UPDATE book SET quantity=? WHERE id=?");
 				pstmt.setInt(1, quantity);
@@ -83,13 +83,42 @@ public class dbUtil {
 		return true;
 	}
 
+	public static int queryDB(int id) {
+		Connection connection = null;
+		int result = -1;
+		try{
+			// create a database connection
+			connection = DriverManager.getConnection("jdbc:sqlite:lab3.db");
+			PreparedStatement pstmt = connection.prepareStatement("SELECT quantity FROM book WHERE id=?");
+			pstmt.setInt(1, id);
+
+			ResultSet rs = pstmt.executeQuery();
+			result = rs.getInt("quantity");
+		}catch(SQLException e){
+	      // if the error message is "out of memory",
+	      // it probably means no database file is found
+	      System.err.println(e.getMessage());
+	    }
+	    finally{
+	      try{
+	        if(connection != null)
+	          connection.close();
+	      }
+	      catch(SQLException e){
+	        // connection close failed.
+	        System.err.println(e);
+	      }
+	    }
+		return result;
+	}
+
 	//allow catalog server to add more books
 	public static int moreStock(int id){
 		Connection connection = null;
 		int result = 0;
 		try{
 			// create a database connection
-			connection = DriverManager.getConnection("jdbc:sqlite:lab2.db");
+			connection = DriverManager.getConnection("jdbc:sqlite:lab3.db");
 			PreparedStatement pstmt = connection.prepareStatement("SELECT quantity FROM book WHERE id=?");
 			pstmt.setInt(1, id);
 

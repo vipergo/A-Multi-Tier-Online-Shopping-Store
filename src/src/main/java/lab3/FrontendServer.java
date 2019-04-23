@@ -90,6 +90,7 @@ public class FrontendServer {
 					try{
 						Response catServerResponse = request("GET","http://"+servers_ip[target_cluster][0]+":3154/lookup?id="+param);
 						Map<String,Object> response = catServerResponse.json();
+						//could be Integer
 						int cur_quan = (int)(double)response.get("cur_quantity");
 						result.put("cur_quantity", cur_quan);
 						cacheStock.put(id, cur_quan);

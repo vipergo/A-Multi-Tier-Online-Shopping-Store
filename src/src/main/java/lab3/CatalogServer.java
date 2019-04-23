@@ -7,7 +7,7 @@ import static lab3.dbUtil.*;
 
 import java.util.*;
 import java.util.concurrent.locks.*;
-import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.*;
 
 import java.io.File;
 import java.io.IOException;
@@ -15,23 +15,25 @@ import java.io.FileWriter;
 import java.text.SimpleDateFormat;
 
 class CatalogServer {
-		//catalog side cache
+		//catalog side cache with strong consistency with DB
 		private ConcurrentHashMap<Integer, Integer> cache = new ConcurrentHashMap<>();
 		private File log;
 		private final ReadWriteLock readWriteLock = new ReentrantReadWriteLock();
 
 		private String replica_ip;
+		private String frontend_ip;
 
 		//for catalog server synchronization
 		private boolean sync = true;
 
-		private boolean DB_accessing = true;
-
 		//constructor
-		public CatalogServer(String replica_ip) {
-			createDB();
+		public CatalogServer(String replica_ip, String frontend_ip) {
+			initDB();
+			sync();
+			initCache();
 			//createLogFile();
 			this.replica_ip = replica_ip;
+			this.frontend_ip = frontend_ip;
 		}
 
 		//start server
@@ -42,11 +44,10 @@ class CatalogServer {
 			get("/lookup",(req, res) -> {
 				String param = req.queryParams("id");
 				int id = Integer.parseInt(param);
-				int quan = query(id);
+				Integer quan = query(id);
 				//writeToLog("lookup bookid: "+param+" title: "+b.getTitle());
 				Map<String,Object> result = new HashMap<String,Object>();
 				result.put(param, quan);
-
 				return result;
 			},json());
 
@@ -56,40 +57,48 @@ class CatalogServer {
 				//writeToLog("seach topic: "+topic);
 				Map<String,Object> result = new HashMap<String,Object>();
 				int[] id_list = queryByTopic(topic);
-
+				query_batch(id_list, result);
 				return result;
 			},json());
 
 			//buy by id and quantity
-			get("/update",(req, res) -> {
+			get("/buy",(req, res) -> {
 				String param1 = req.queryParams("id");
 				int id = Integer.parseInt(param1);
 				String param2 = req.queryParams("quantity");
 				int quantity = Integer.parseInt(param2);
 				Map<String,Object> result = new HashMap<String,Object>();
 
+				readWriteLock.writeLock().lock();
 				int query_quan = cache.get(id);
-				if(query_quan>quantity){
+				if(query_quan>=quantity){
 					int new_quantity = query_quan - quantity;
-
+					UpdateDB(id, new_quantity);
+    				cache.put(id, new_quantity);
+					result.put("cur_quantity", new_quantity);
+					result.put("result", "success");
+					readWriteLock.writeLock().unlock();
+					invalidFontendCache(param1);
 				} else {
+					readWriteLock.writeLock().unlock();
 					result.put("cur_quantity", query_quan);
-					result.put("result", "fail");
+					result.put("result", "outStock");
 					//writeToLog("update bookId: "+param1+" quantity: "+param2+" Update Failed");
 				}
 
-				/*
-				if(updatedQuan>-1) {
-					result.put("cur_quantity", updatedQuan);
-					result.put("result", "success");
-					//writeToLog("update bookId: "+param1+" quantity: "+param2+" stock: "+String.valueOf(updatedQuan));
-				}
-				else {
-
-				}
-				*/
 				return result;
 			},json());
+
+			get("/synchronization",(req, res) -> {
+				Map<String,Object> result = new HashMap<String,Object>();
+
+				readWriteLock.readLock().lock();
+				for(int i=1; i<8; i++){
+					result.put(Integer.toString(i), cache.get(i));
+				}
+				readWriteLock.readLock().unlock();
+				return result;
+			}, json());
 
 			//changes every response to application/json
 			after((req, res) -> {
@@ -97,10 +106,6 @@ class CatalogServer {
 				});
 		}
 
-		//create database
-		private void createDB(){
-			initDB();
-		}
 		//get stock by id
 		public Integer query(int id) {
 			readWriteLock.readLock().lock();
@@ -111,6 +116,7 @@ class CatalogServer {
 			}
 		}
 
+		//put search result into response obj
 		public void query_batch(int[] id_list, Map<String,Object> result) {
 			readWriteLock.readLock().lock();
 			try{
@@ -136,52 +142,31 @@ class CatalogServer {
 			} else return new int[0];
 		}
 
-		public void updateCache(int id, int new_quantity){
-			cache.put(id, new_quantity);
+		public boolean invalidFontendCache(String id_str){
+			Response resp = request("GET","http://"+this.frontend_ip+":3800/invalid?id="+id_str);
+			if(resp==null) System.out.println("frontend is not up");
+			else if(resp.status==200) return true;
+			else return false;
+			return true;
 		}
 
-		public void update_DB(int id, int quantity){
-			UpdateDB(id, quantity);
-		}
-
-		public boolean sync_replica(int id, int quantity){
-			if(this.sync){
-				System.out.println("try to sync");
-    			Response replicaRes = request("GET","http://"+this.replica_ip+":3154/synchronization?id="+Integer.toString(id)+"&quantity="+Integer.toString(quantity));
-				if(replicaRes==null){
-	    			System.out.println("replica down");
-	    			this.sync = false;
-	    			return true;
-				} else {
-	    			Map<String,Object> replicaResObj = replicaRes.json();
-	    			if(replicaResObj.get("result").equals("success")) return true;
-	    			else return false;
-	    		}
-			} else return true;
-		}
-
-		//sell book by id, quantity
-		public boolean update(int id, int quantity) {
-
-    		if(sync_replica(id, quantity)){
-    			System.out.println("sync success");
-    			update_DB(id, quantity);
-    			updateCache(id, quantity);
-    			return true;
-    		} else {
-    			System.out.println("sync failed");
-    			return false;
-    		}
+		public void sync(){
+			Response syncRes = request("GET","http://"+this.replica_ip+":3154/synchronization");
+			if(syncRes!=null){
+				Map<String, Object> result = syncRes.json();
+				readWriteLock.writeLock().lock();
+				for(Map.Entry<String,Object> entry : result.entrySet()){
+					Double v = (Double)entry.getValue();
+					UpdateDB(Integer.parseInt(entry.getKey()), v.intValue());
+				}
+				readWriteLock.writeLock().unlock();
+			}
 		}
 
 		private void initCache(){
-			cache.put(1,5);
-			cache.put(2,4);
-			cache.put(3,3);
-			cache.put(4,2);
-			cache.put(5,6);
-			cache.put(6,7);
-			cache.put(7,8);
+			for(int i=1; i<8; i++){
+				cache.put(i,queryDB(i));
+			}
 		}
 
 		//create log file to store printed messages
