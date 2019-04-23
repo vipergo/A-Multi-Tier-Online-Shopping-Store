@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.IOException;
 import java.io.FileWriter;
 import java.util.*;
-//import java.util.concurrent.locks.*;
+import java.util.concurrent.locks.ReentrantLock;
 import java.util.concurrent.ConcurrentHashMap;
 
 import static spark.Spark.*;
@@ -21,25 +21,23 @@ public class FrontendServer {
 
 	private Map<Integer, Book> cache = new HashMap<Integer, Book>(7);
 	private ConcurrentHashMap<Integer, Integer> cacheStock = new ConcurrentHashMap<Integer, Integer>(7);
-	/*
-	private final ReadWriteLock readWriteLock = new ReentrantReadWriteLock();
-	private final Lock writeLock = readWriteLock.writeLock();
-	private final Lock readLock = readWriteLock.readLock();
-	*/
-	public FrontendServer(String cat_server_ip1, String order_server_ip1){
-		this.servers_ip[0][0] = cat_server_ip1;
-		this.servers_ip[0][0] = order_server_ip1;
+
+	private final ReentrantLock Lock = new ReentrantLock();
+
+	public FrontendServer(String cat_server_ip0, String order_server_ip0){
+		this.servers_ip[0][0] = cat_server_ip0;
+		this.servers_ip[0][0] = order_server_ip0;
 		initCache();
 		//lookup_timeLog = new File("./time_logs/frontend_lookup_timeLog.txt");
 		//search_timeLog = new File("./time_logs/frontend_search_timeLog.txt");
 		//buy_timeLog = new File("./time_logs/frontend_buy_timeLog.txt");
-		heartBeat(0);
+		//heartBeat(0);
 	}
 
 	public int load_balancing(){
 		if(this.down_cluster_id==2) return rand.nextInt(2);
 		else if(this.down_cluster_id==0) return 1;
-		else return 1;
+		else return 0;
 	}
 
 	public void report_crash(int id){
@@ -62,12 +60,8 @@ public class FrontendServer {
 			//recordTime(endTime-startTime, buy_timeLog);
 			*/
 			Map<String,Object> result = new HashMap<String,Object>();
-			if(queryCacheStock(id)>=quantity){
-				result.put("result", 1);
-				//result.put("cur_quantity", updateBookStock(id, quantity));
-			}else{
-				result.put("result", 0);
-			}
+			Response orderServerResponse = request("GET","http://"+order_server_ip+":3801/buy?id="+id_str+"&"+"quantity="+quantity_str);
+			Response orderServerResponse = request("GET","http://"+order_server_ip+":3801/buy?id="+id_str+"&"+"quantity="+quantity_str);
 			return result;
 		},json());
 
@@ -87,17 +81,22 @@ public class FrontendServer {
 				Integer bookStock = queryCacheStock(id);
 				if(bookStock==null){
 					int target_cluster = load_balancing();
-					try{
-						Response catServerResponse = request("GET","http://"+servers_ip[target_cluster][0]+":3154/lookup?id="+param);
-						Map<String,Object> response = catServerResponse.json();
-						//could be Integer
-						int cur_quan = (int)(double)response.get("cur_quantity");
-						result.put("cur_quantity", cur_quan);
-						cacheStock.put(id, cur_quan);
-					}catch (Exception e) {
-				    	System.out.println("Catalog Server Down "+Integer.toString(target_cluster));
-				    	report_crash(target_cluster);
-				    }
+
+					Response catServerResponse = request("GET","http://"+servers_ip[target_cluster][0]+":3154/lookup?id="+param);
+					if(catServerResponse==null){
+						System.out.println("Catalog Server Down "+Integer.toString(target_cluster));
+			    		report_crash(target_cluster);
+			    		target_cluster = load_balancing();
+			    		catServerResponse = request("GET","http://"+servers_ip[target_cluster][0]+":3154/lookup?id="+param);
+					}
+
+					Map<String,Object> response = catServerResponse.json();
+					System.out.println(response.get("cur_quantity"));
+					int cur_quan = ((Double)response.get("cur_quantity")).intValue();
+					result.put("cur_quantity", cur_quan);
+					cacheStock.put(id, cur_quan);
+
+
 				} else {
 					result.put("cur_quantity", bookStock);
 				}
@@ -121,7 +120,7 @@ public class FrontendServer {
 			long endTime = System.currentTimeMillis();
 			//recordTime(endTime-startTime, search_timeLog);
 			*/
-			Map<String,Object> result = new HashMap<String,Object>();
+			Map<String,Map<String, Object>> result = new HashMap<String,Map<String, Object>>();
 			int[] search_ids = queryByTopic(topic);
 			if(search_ids.length>0){
 				if(search_cache(search_ids)){
@@ -137,13 +136,19 @@ public class FrontendServer {
 						result.put(Integer.toString(i), book_info);
 					}
 					int target_cluster = load_balancing();
-					try{
-						Response catServerResponse = request("GET","http://"+servers_ip[target_cluster][0]+":3154/search?topic="+topic);
-						//TODO what inside of catServerResponse (datatype)
-					}catch (Exception e) {
-				    	System.out.println("Catalog Server Down "+Integer.toString(target_cluster));
-				    	report_crash(target_cluster);
-				    }
+
+					Response catServerResponse = request("GET","http://"+servers_ip[target_cluster][0]+":3154/search?topic="+topic);
+					if(catServerResponse==null) {
+						System.out.println("Catalog Server Down "+Integer.toString(target_cluster));
+						report_crash(target_cluster);
+						catServerResponse = request("GET","http://"+servers_ip[target_cluster][0]+":3154/search?topic="+topic);
+					}
+					Map<String, Object> resObj = catServerResponse.json();
+					for(Map.Entry<String,Object> entry : resObj.entrySet()){
+						result.get(entry.getKey()).put("cur_quantity", entry.getValue());
+					}
+
+
 
 				}
 			} else{
@@ -197,26 +202,12 @@ public class FrontendServer {
 		result.put("title", targetBook.getTitle());
 		result.put("price", targetBook.getPrice());
 		result.put("topic", targetBook.getTopic());
-		if(stock_cache) result.put("cur_quantity", queryCacheStock(i));
+		if(stock_cache) result.put("cur_quantity", Integer.toString(queryCacheStock(i)));
 	}
-	/*
-	private int updateBookStock(int id, int quantity){
-		writeLock.lock();
-		try{
-			int new_stock = cacheStock.get(id)-quantity;
-			if(new_stock>=0) cacheStock.put(id, new_stock);
-			return new_stock;
-		} finally {
-			writeLock.unlock();
-		}
-
-	}
-	*/
 
 	private void heartBeat(int cluster_id){
 		Runnable heart = () -> {
 		    while(true){
-		    	System.out.println("hi");
 		    	System.out.println(down_cluster_id);
 		    	try{
 		    		Thread.sleep(5000);

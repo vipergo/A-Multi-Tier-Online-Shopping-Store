@@ -47,7 +47,7 @@ class CatalogServer {
 				Integer quan = query(id);
 				//writeToLog("lookup bookid: "+param+" title: "+b.getTitle());
 				Map<String,Object> result = new HashMap<String,Object>();
-				result.put(param, quan);
+				result.put("cur_quantity", quan);
 				return result;
 			},json());
 
@@ -68,6 +68,7 @@ class CatalogServer {
 				String param2 = req.queryParams("quantity");
 				int quantity = Integer.parseInt(param2);
 				Map<String,Object> result = new HashMap<String,Object>();
+				result.put("id", param1);
 
 				readWriteLock.writeLock().lock();
 				int query_quan = cache.get(id);
