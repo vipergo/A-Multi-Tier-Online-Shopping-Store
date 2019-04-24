@@ -14,7 +14,6 @@ import java.text.SimpleDateFormat;
 public class OrderServer {
 
 	private File orderLog;
-	private File buy_timeLog;
 
 	public String server_id;
 	private String cat_server_ip;
@@ -108,21 +107,5 @@ public class OrderServer {
         } finally {
         	Lock.unlock();
         }
-	}
-
-	//record the message latency
-	public void recordTime(long timeUsed, File timeLog){
-		try{
-			if(!timeLog.exists()){
-				timeLog.createNewFile();
-			}
-			FileWriter fw = new FileWriter(timeLog, true);
-			fw.write(String.valueOf(timeUsed));
-			fw.write(System.getProperty("line.separator"));
-			fw.flush();
-			fw.close();
-		} catch (IOException e){
-			e.printStackTrace();
-		}
 	}
 }

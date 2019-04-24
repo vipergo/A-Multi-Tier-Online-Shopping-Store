@@ -29,6 +29,10 @@ public class Client {
 		search_timeLog = new File("./time_logs/client_search_timeLog_"+client_name+".txt");
 		buy_timeLog = new File("./time_logs/client_buy_timeLog_"+client_name+".txt");
 		clientLog = new File("./print_logs/client_log_"+client_name+".txt");
+		createLogFile(lookup_timeLog);
+		createLogFile(search_timeLog);
+		createLogFile(buy_timeLog);
+		createLogFile(clientLog);
 		this.start();
 	}
 
@@ -106,6 +110,22 @@ public class Client {
 			fw.write(System.getProperty("line.separator"));
 			fw.flush();
 			fw.close();
+		} catch (IOException e){
+			e.printStackTrace();
+		}
+	}
+
+		//create log to store the request messages
+	public void createLogFile(File f){
+		try{
+			if(!f.exists()){
+				f.createNewFile();
+				System.out.println("File is created!");
+			} else {
+				f.delete();
+				f.createNewFile();
+				System.out.println("log recreated!");
+			}
 		} catch (IOException e){
 			e.printStackTrace();
 		}

@@ -9,9 +9,7 @@ import static lab3.JsonUtil.*;
 import static lab3.HttpUtil.*;
 
 public class FrontendServer {
-	//private File lookup_timeLog;
-	//private File search_timeLog;
-	//private File buy_timeLog;
+
 	private String[][] servers_ip = new String[2][2];
 	private ClusterClass available_cluster = new ClusterClass();
 	private Random rand = new Random();
