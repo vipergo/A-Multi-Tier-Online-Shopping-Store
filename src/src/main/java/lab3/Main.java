@@ -30,9 +30,9 @@ public class Main {
 		*/
 		//FrontendServer f_server = new FrontendServer("localhost", "localhost", "localhost", "localhost");
 		//f_server.start();
-		//CatalogServer cat_server = new CatalogServer("localhost");
-		//cat_server.start();
-		OrderServer o_server = new OrderServer("localhost", "localhost");
-		o_server.start();
+		CatalogServer cat_server = new CatalogServer("0", "localhost");
+		cat_server.start();
+		//OrderServer o_server = new OrderServer("0", "localhost", "localhost");
+		//o_server.start();
 	}
 }

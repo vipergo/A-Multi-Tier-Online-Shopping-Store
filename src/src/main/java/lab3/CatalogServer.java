@@ -17,21 +17,22 @@ import java.text.SimpleDateFormat;
 class CatalogServer {
 		//catalog side cache with strong consistency with DB
 		private ConcurrentHashMap<Integer, Integer> cache = new ConcurrentHashMap<>();
-		private File log;
 		private final ReadWriteLock readWriteLock = new ReentrantReadWriteLock();
 
+		public String server_id;
 		private String replica_ip;
 
-		//for catalog server synchronization
-		private boolean sync = true;
+		private File log;
+
 
 		//constructor
-		public CatalogServer(String replica_ip) {
-			initDB();
+		public CatalogServer(String server_id, String replica_ip) {
+			this.server_id = server_id;
+			this.replica_ip = replica_ip;
+			initDB(server_id);
 			sync();
 			initCache();
 			//createLogFile();
-			this.replica_ip = replica_ip;
 		}
 
 		//start server
@@ -72,7 +73,7 @@ class CatalogServer {
 				int query_quan = cache.get(id);
 				if(query_quan>=quantity){
 					int new_quantity = query_quan - quantity;
-					UpdateDB(id, new_quantity);
+					UpdateDB(id, new_quantity, this.server_id);
     				cache.put(id, new_quantity);
 					result.put("cur_quantity", new_quantity);
 					result.put("result", "success");
@@ -151,7 +152,7 @@ class CatalogServer {
 				readWriteLock.writeLock().lock();
 				for(Map.Entry<String,Object> entry : result.entrySet()){
 					Double v = (Double)entry.getValue();
-					UpdateDB(Integer.parseInt(entry.getKey()), v.intValue());
+					UpdateDB(Integer.parseInt(entry.getKey()), v.intValue(), this.server_id);
 				}
 				readWriteLock.writeLock().unlock();
 			}
@@ -159,13 +160,13 @@ class CatalogServer {
 
 		private void initCache(){
 			for(int i=1; i<8; i++){
-				cache.put(i,queryDB(i));
+				cache.put(i,queryDB(i, this.server_id));
 			}
 		}
 
 		//create log file to store printed messages
 		public void createLogFile(){
-			log = new File("./catalog_log.txt");
+			log = new File("./catalog_log"+this.server_id+".txt");
 			try{
 				if(!log.exists()){
 					log.createNewFile();
@@ -183,7 +184,7 @@ class CatalogServer {
 		//write printed message to log file
 		public void writeToLog(String s){
 			try{
-				FileWriter fw = new FileWriter("catalog_log.txt", true);
+				FileWriter fw = new FileWriter("catalog_log"+this.server_id+".txt", true);
 				fw.write(s);
 				String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
 				fw.write(" timeStamp: "+timeStamp);

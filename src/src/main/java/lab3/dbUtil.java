@@ -9,11 +9,11 @@ import java.sql.PreparedStatement;
 
 public class dbUtil {
 	//create the database with the table
-	public static void initDB() {
+	public static void initDB(String server_id) {
 		Connection connection = null;
 		try{
 			// create a database connection
-			connection = DriverManager.getConnection("jdbc:sqlite:lab3.db");
+			connection = DriverManager.getConnection("jdbc:sqlite:lab3_"+server_id+".db");
 			Statement statement = connection.createStatement();
 			statement.setQueryTimeout(30);  // set timeout to 30 sec.
 
@@ -50,11 +50,11 @@ public class dbUtil {
 	}
 
 	//allow catalog server to increase or decrease the stock
-	public static boolean UpdateDB(int id, int quantity) {
+	public static boolean UpdateDB(int id, int quantity, String server_id) {
 		Connection connection = null;
 		try{
 			// create a database connection
-			connection = DriverManager.getConnection("jdbc:sqlite:lab3.db");
+			connection = DriverManager.getConnection("jdbc:sqlite:lab3_"+server_id+".db");
 			if(quantity>=0){
 				PreparedStatement pstmt = connection.prepareStatement("UPDATE book SET quantity=? WHERE id=?");
 				pstmt.setInt(1, quantity);
@@ -83,12 +83,12 @@ public class dbUtil {
 		return true;
 	}
 
-	public static int queryDB(int id) {
+	public static int queryDB(int id, String server_id) {
 		Connection connection = null;
 		int result = -1;
 		try{
 			// create a database connection
-			connection = DriverManager.getConnection("jdbc:sqlite:lab3.db");
+			connection = DriverManager.getConnection("jdbc:sqlite:lab3_"+server_id+".db");
 			PreparedStatement pstmt = connection.prepareStatement("SELECT quantity FROM book WHERE id=?");
 			pstmt.setInt(1, id);
 
@@ -113,12 +113,12 @@ public class dbUtil {
 	}
 
 	//allow catalog server to add more books
-	public static int moreStock(int id){
+	public static int moreStock(int id, String server_id){
 		Connection connection = null;
 		int result = 0;
 		try{
 			// create a database connection
-			connection = DriverManager.getConnection("jdbc:sqlite:lab3.db");
+			connection = DriverManager.getConnection("jdbc:sqlite:lab3_"+server_id+".db");
 			PreparedStatement pstmt = connection.prepareStatement("SELECT quantity FROM book WHERE id=?");
 			pstmt.setInt(1, id);
 

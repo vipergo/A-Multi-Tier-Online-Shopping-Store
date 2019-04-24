@@ -13,11 +13,14 @@ public class OrderServer {
 
 	private File orderLog;
 	private File buy_timeLog;
+
+	public String server_id;
 	private String cat_server_ip;
 	private String frontend_ip;
 
 	//constructor
-	public OrderServer(String cat_server_ip, String frontend_ip){
+	public OrderServer(String server_id, String cat_server_ip, String frontend_ip){
+		this.server_id = server_id;
 		this.cat_server_ip = cat_server_ip;
 		this.frontend_ip = frontend_ip;
 		//createOrderLogFile();
@@ -70,7 +73,7 @@ public class OrderServer {
 
 	//create log to store the request messages
 	public void createOrderLogFile(){
-		orderLog = new File("./order_log.txt");
+		orderLog = new File("./order_log"+this.server_id+".txt");
 		try{
 			if(!orderLog.exists()){
 				orderLog.createNewFile();
@@ -88,7 +91,7 @@ public class OrderServer {
 	//write to the log file
 	public void writeToLog(String s){
 		try{
-			FileWriter fw = new FileWriter("order_log.txt", true);
+			FileWriter fw = new FileWriter("order_log"+this.server_id+".txt", true);
 			fw.write(s);
 			String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
 			fw.write(" timeStamp: "+timeStamp);
