@@ -1,0 +1,1100 @@
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=2000.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=2000.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=2000.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=2000.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=2000.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=2000.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=2000.0 timeStamp: 2019.04.24.11.50.31
+search: distributed_systems result= {1={cur_quantity=2000.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.31
+search: distributed_systems result= {1={cur_quantity=2000.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.31
+search: distributed_systems result= {1={cur_quantity=2000.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.31
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1997.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1997.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1997.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1997.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1997.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1997.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1997.0 timeStamp: 2019.04.24.11.50.31
+search: distributed_systems result= {1={cur_quantity=1996.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.31
+search: distributed_systems result= {1={cur_quantity=1996.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.31
+search: distributed_systems result= {1={cur_quantity=1995.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.31
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1994.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1994.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1994.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1994.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1994.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1994.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1993.0 timeStamp: 2019.04.24.11.50.31
+search: distributed_systems result= {1={cur_quantity=1993.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.31
+search: distributed_systems result= {1={cur_quantity=1992.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.31
+search: distributed_systems result= {1={cur_quantity=1992.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.31
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1990.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1990.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1990.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1990.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1990.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1990.0 timeStamp: 2019.04.24.11.50.31
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1990.0 timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1990.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1989.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1989.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1987.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1987.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1987.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1987.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1987.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1987.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1987.0 timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1987.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1986.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1986.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1984.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1985.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1985.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1985.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1985.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1984.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1984.0 timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1984.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1984.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1983.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1982.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1982.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1981.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1981.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1981.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1981.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1981.0 timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1981.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1980.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1980.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1979.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1979.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1979.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1979.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1979.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1979.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1978.0 timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1977.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1977.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1977.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1976.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1976.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1976.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1976.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1976.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1975.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1975.0 timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1974.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1975.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1974.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1973.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1973.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1972.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1972.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1972.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1972.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1972.0 timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1972.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1971.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1971.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1970.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1970.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1970.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1970.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1970.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1969.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1969.0 timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1969.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1969.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1968.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1967.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1967.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1967.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1966.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1966.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1966.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1966.0 timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1965.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1965.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1965.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1964.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1964.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1964.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1963.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1963.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1963.0 timeStamp: 2019.04.24.11.50.32
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1963.0 timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1962.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1962.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+search: distributed_systems result= {1={cur_quantity=1962.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.32
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1961.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1961.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1961.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1961.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1961.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1961.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1961.0 timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1960.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1959.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1959.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1958.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1958.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1958.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1958.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1958.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1958.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1958.0 timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1957.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1956.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1956.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1955.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1955.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1955.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1955.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1955.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1955.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1954.0 timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1954.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1953.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1953.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1952.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1952.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1951.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1951.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1951.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1951.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1951.0 timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1950.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1950.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1950.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1949.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1949.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1948.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1948.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1948.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1948.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1948.0 timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1947.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1947.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1947.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1946.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1946.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1946.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1945.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1945.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1945.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1945.0 timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1945.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1944.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1944.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1943.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1943.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1943.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1942.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1942.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1942.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1942.0 timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1941.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1941.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1941.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1940.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1940.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1940.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1940.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1940.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1940.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1939.0 timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1939.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1938.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1938.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1937.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1937.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1937.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1937.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1937.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1937.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1936.0 timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1936.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1935.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1935.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1934.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1934.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1934.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1933.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1933.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1933.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1933.0 timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1933.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1932.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1932.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1931.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1931.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1931.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1931.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1931.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1931.0 timeStamp: 2019.04.24.11.50.33
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1931.0 timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1930.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1930.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+search: distributed_systems result= {1={cur_quantity=1930.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.33
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1928.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1928.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1928.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1928.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1928.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1928.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1927.0 timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1927.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1927.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1927.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1925.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1925.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1925.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1925.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1925.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1925.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1924.0 timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1924.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1924.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1924.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1922.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1922.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1922.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1921.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1921.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1921.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1921.0 timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1921.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1920.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1920.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1919.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1919.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1919.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1918.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1918.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1918.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1918.0 timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1917.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1917.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1917.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1915.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1915.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1915.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1915.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1915.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1915.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1915.0 timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1914.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1914.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1914.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1913.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1913.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1912.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1912.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1912.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1912.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1912.0 timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1911.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1911.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1911.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1910.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1910.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1910.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1909.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1909.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1909.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1909.0 timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1908.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1908.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1908.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1907.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1906.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1906.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1906.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1906.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1906.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1906.0 timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1906.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1906.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1905.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1904.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1904.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1904.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1904.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1903.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1903.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1903.0 timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1903.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1902.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1902.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1901.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1901.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1901.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1901.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1900.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1900.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1900.0 timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1900.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1899.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1899.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1898.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1898.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1898.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1897.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1897.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1897.0 timeStamp: 2019.04.24.11.50.34
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1897.0 timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1896.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1896.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.34
+search: distributed_systems result= {1={cur_quantity=1896.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1894.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1894.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1894.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1894.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1894.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1894.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1894.0 timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1894.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1893.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1893.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1892.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1892.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1892.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1892.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1892.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1892.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1890.0 timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1890.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1890.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1890.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1889.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1889.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1888.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1888.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1888.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1888.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1888.0 timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1887.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1887.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1887.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1885.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1885.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1885.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1885.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1885.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1885.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1885.0 timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1885.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1884.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1884.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1883.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1883.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1883.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1883.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1883.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1883.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1883.0 timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1882.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1882.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1882.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1880.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1880.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1880.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1879.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1879.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1879.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1879.0 timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1878.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1878.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1878.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1877.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1877.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1877.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1877.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1877.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1877.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1876.0 timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1875.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1875.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1875.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1874.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1874.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1874.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1874.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1874.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1874.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1874.0 timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1873.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1872.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1872.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1871.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1871.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1871.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1870.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1870.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1870.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1870.0 timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1869.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1869.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1869.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1867.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1867.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1867.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1867.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1867.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1867.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1867.0 timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1867.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1866.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1866.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1865.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1865.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1865.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1864.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1864.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1864.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1864.0 timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1863.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1863.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+search: distributed_systems result= {1={cur_quantity=1863.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.35
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1862.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1862.0 timeStamp: 2019.04.24.11.50.35
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1862.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1861.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1861.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1861.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1861.0 timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1861.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1860.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1860.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1859.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1859.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1859.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1859.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1858.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1858.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1858.0 timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1858.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1858.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1858.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1856.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1856.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1856.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1856.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1855.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1855.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1855.0 timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1855.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1855.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1855.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1853.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1853.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1853.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1853.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1852.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1852.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1852.0 timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1851.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1851.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1851.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1849.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1849.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1849.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1849.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1849.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1849.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1849.0 timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1848.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1848.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1848.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1847.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1847.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1847.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1846.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1846.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1846.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1846.0 timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1846.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1845.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1845.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1844.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1844.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1844.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1843.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1843.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1843.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1843.0 timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1842.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1842.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1842.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1841.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1841.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1841.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1840.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1840.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1840.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1840.0 timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1840.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1839.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1839.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1838.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1838.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1838.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1838.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1838.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1838.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1837.0 timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1837.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1837.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1836.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1835.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1835.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1835.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1835.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1834.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1834.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1834.0 timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1834.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1833.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1833.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1832.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1832.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1832.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1832.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1832.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1832.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1832.0 timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1831.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1830.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1830.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1828.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1828.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1828.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1828.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1828.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1828.0 timeStamp: 2019.04.24.11.50.36
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1828.0 timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1828.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.36
+search: distributed_systems result= {1={cur_quantity=1827.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1827.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1826.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1826.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1826.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1825.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1825.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1825.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1825.0 timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1824.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1824.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1824.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1822.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1822.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1822.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1822.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1822.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1822.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1822.0 timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1822.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1821.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1821.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1820.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1820.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1820.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1819.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1819.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1819.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1819.0 timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1819.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1818.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1818.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1817.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1817.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1817.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1816.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1816.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1816.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1816.0 timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1816.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1816.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1816.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1814.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1814.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1814.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1814.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1814.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1814.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1813.0 timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1812.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1812.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1812.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1811.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1811.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1811.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1810.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1810.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1810.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1810.0 timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1810.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1809.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1809.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1808.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1808.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1808.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1807.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1807.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1807.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1807.0 timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1806.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1806.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1806.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1804.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1804.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1804.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1804.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1804.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1804.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1804.0 timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1804.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1803.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1803.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1801.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1801.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1801.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1801.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1801.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1801.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1801.0 timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1801.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1800.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1800.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1799.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1799.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1799.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1799.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1798.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1798.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1798.0 timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1798.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1797.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1797.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1796.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1796.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1796.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1795.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1795.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1795.0 timeStamp: 2019.04.24.11.50.37
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1795.0 timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1794.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1794.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+search: distributed_systems result= {1={cur_quantity=1794.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.37
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1793.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1793.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1793.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1793.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1792.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1792.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1792.0 timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1792.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1791.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1791.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1790.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1790.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1790.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1789.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1789.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1789.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1789.0 timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1788.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1788.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1788.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1786.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1786.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1786.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1786.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1786.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1786.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1786.0 timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1785.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1785.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1785.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1784.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1784.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1784.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1783.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1783.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1783.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1783.0 timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1783.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1782.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1782.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1781.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1781.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1781.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1780.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1780.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1780.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1780.0 timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1780.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1779.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1779.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1778.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1778.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1778.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1777.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1777.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1777.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1777.0 timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1777.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1776.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1776.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1775.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1775.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1775.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1774.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1774.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1774.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1774.0 timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1773.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1773.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1773.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1772.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1772.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1771.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1771.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1771.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1771.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1771.0 timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1770.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1770.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1770.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1769.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1769.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1769.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1769.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1769.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1769.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1769.0 timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1768.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1768.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1768.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1766.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1766.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1766.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1766.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1766.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1766.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1765.0 timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1765.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1765.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1764.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1763.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1763.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1763.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1763.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1763.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1763.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1763.0 timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1762.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1761.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1761.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1760.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1760.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1760.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1759.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1759.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1759.0 timeStamp: 2019.04.24.11.50.38
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1759.0 timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1759.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1758.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.38
+search: distributed_systems result= {1={cur_quantity=1758.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1757.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1757.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1757.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1757.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1757.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1757.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1757.0 timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1756.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1755.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1755.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1754.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1754.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1754.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1754.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1754.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1754.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1754.0 timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1753.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1753.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1752.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1750.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1750.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1750.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1750.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1750.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1750.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1750.0 timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1749.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1749.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1749.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1748.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1748.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1747.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1747.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1747.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1747.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1746.0 timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1746.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1746.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1746.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1745.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1745.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1745.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1745.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1745.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1745.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1744.0 timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1744.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1744.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1743.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1742.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1742.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1742.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1742.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1742.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1742.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1742.0 timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1741.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1740.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1740.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1739.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1739.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1739.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1738.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1738.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1738.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1738.0 timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1738.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1738.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1737.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1736.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1736.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1736.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1736.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1735.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1735.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1735.0 timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1735.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1734.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1734.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1733.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1733.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1733.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1732.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1732.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1732.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1732.0 timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1732.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1732.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1731.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1730.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1730.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1730.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1730.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1730.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1729.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1729.0 timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1729.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1728.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1728.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1727.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1727.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1727.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1727.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1726.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1726.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1726.0 timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1726.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1726.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+search: distributed_systems result= {1={cur_quantity=1725.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.39
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1724.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1724.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1724.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1724.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1723.0 timeStamp: 2019.04.24.11.50.39
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1723.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1723.0 timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1723.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1723.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1722.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1721.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1721.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1720.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1720.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1720.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1720.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1720.0 timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1720.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1720.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1719.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1718.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1718.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1718.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1718.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1718.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1718.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1717.0 timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1717.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1716.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1716.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1715.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1715.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1715.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1714.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1714.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1714.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1714.0 timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1714.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1713.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1713.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1712.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1712.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1712.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1712.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1712.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1712.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1712.0 timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1711.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1711.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1711.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1709.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1709.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1708.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1708.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1708.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1708.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1708.0 timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1708.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1707.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1707.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1706.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1706.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1706.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1705.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1705.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1705.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1705.0 timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1705.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1704.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1704.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1702.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1702.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1702.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1702.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1702.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1702.0 timeStamp: 2019.04.24.11.50.40
+lookup:  bookid=1 title=How to get a good grade in 677 in 20 minutes a day. cur_quantity=1702.0 timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1702.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1701.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+search: distributed_systems result= {1={cur_quantity=1701.0, price=100.0, topic=distributed_systems, title=How to get a good grade in 677 in 20 minutes a day.}, 2={cur_quantity=2000.0, price=20.0, topic=distributed_systems, title=RPCs for Dummies.}} timeStamp: 2019.04.24.11.50.40
+buy: bookid=1 quantity=1 result=success timeStamp: 2019.04.24.11.50.40
