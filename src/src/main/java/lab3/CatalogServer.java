@@ -25,6 +25,8 @@ class CatalogServer {
 
 		private File log;
 
+		private Random rand = new Random();
+
 
 		//constructor
 		public CatalogServer(String server_id, String replica_ip) {
@@ -34,6 +36,8 @@ class CatalogServer {
 			sync();
 			initCache();
 			createLogFile();
+
+			//addStock(); //disable for easier test verifing
 		}
 
 		//start server
@@ -101,6 +105,19 @@ class CatalogServer {
 				return result;
 			}, json());
 
+			get("/addStock",(req, res) -> {
+				String param = req.queryParams("id");
+				int id = Integer.parseInt(param);
+
+				readWriteLock.writeLock().lock();
+				int new_quantity = cache.get(id) + 5;
+				UpdateDB(id, new_quantity, this.server_id);
+    			cache.put(id, new_quantity);
+    			readWriteLock.writeLock().unlock();
+
+				return true;
+			},json());
+
 			get("/heartBeat",(req, res) -> {
 				return true;
 			}, json());
@@ -164,6 +181,31 @@ class CatalogServer {
 			for(int i=1; i<8; i++){
 				cache.put(i,queryDB(i, this.server_id));
 			}
+		}
+
+		private void newStock(){
+			Runnable add_stock = () -> {
+			    while(true){
+			    	try{
+			    		Thread.sleep(10000);
+			    	}catch (Exception e) {
+					    System.out.println("Can't sleep?");
+					    System.out.println(e);
+					}
+					int addStock_id = rand.nextInt(7)+1;
+					readWriteLock.writeLock().lock();
+		    		Response addStockRes = request("GET","http://"+replica_ip+":3154/addStock?id="+Integer.toString(addStock_id));
+					int new_quantity = cache.get(addStock_id) + 5;
+					UpdateDB(addStock_id, new_quantity, this.server_id);
+    				cache.put(addStock_id, new_quantity);
+    				readWriteLock.writeLock().unlock();
+		    		if(addStockRes==null){
+		    			System.out.println("replica is down");
+		    		}
+			    }
+			};
+		    Thread t = new Thread(add_stock);
+		    t.start();
 		}
 
 		//create log file to store printed messages

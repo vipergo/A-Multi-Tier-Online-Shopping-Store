@@ -60,7 +60,7 @@ public class dbUtil {
 				pstmt.setInt(1, quantity);
 				pstmt.setInt(2, id);
 				pstmt.executeUpdate();
-				System.out.println("Update DB success");
+				System.out.println("Update DB success, current quantity: "+Integer.toString(quantity));
 			} else {
 				System.out.println("something seriously wrong!");
 			}
