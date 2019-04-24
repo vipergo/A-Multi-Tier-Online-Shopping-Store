@@ -1,0 +1,302 @@
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.43
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.44
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.44
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.44
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.44
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.44
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.44
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.44
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.44
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.45
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.45
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.45
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.45
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.45
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.45
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.45
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.45
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.45
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.45
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.45
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.45
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.45
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.45
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.45
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.45
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.45
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.45
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.45
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.45
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.45
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.45
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.45
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.45
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.45
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.45
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.45
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.45
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.45
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.45
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.46
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.46
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.46
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.46
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.46
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.46
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.46
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.46
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.46
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.46
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.46
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.46
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.46
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.46
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.46
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.46
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.46
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.46
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.46
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.46
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.46
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.46
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.46
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.46
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.46
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.46
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.46
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.46
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.46
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.46
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.46
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.47
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.47
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.47
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.47
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.47
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.47
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.47
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.47
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.47
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.47
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.47
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.47
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.47
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.47
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.47
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.47
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.47
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.47
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.47
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.47
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.47
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.47
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.47
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.47
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.47
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.47
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.47
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.47
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.47
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.47
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.47
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.47
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.47
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.47
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.47
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.48
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.48
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.48
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.48
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.48
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.48
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.48
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.48
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.48
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.48
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.48
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.48
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.48
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.48
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.48
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.48
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.48
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.48
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.48
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.48
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.48
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.48
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.48
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.48
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.48
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.48
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.48
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.48
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.48
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.48
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.48
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.48
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.49
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.49
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.49
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.49
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.49
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.49
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.49
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.49
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.49
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.49
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.49
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.49
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.49
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.49
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.49
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.49
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.49
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.49
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.49
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.49
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.49
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.49
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.49
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.49
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.49
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.49
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.49
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.49
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.49
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.49
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.49
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.49
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.49
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.49
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.49
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.49
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.49
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.49
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.50
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.50
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.50
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.50
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.50
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.50
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.50
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.50
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.50
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.50
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.50
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.50
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.50
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.50
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.50
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.50
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.50
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.50
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.50
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.50
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.50
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.50
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.50
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.50
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.50
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.50
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.50
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.50
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.50
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.50
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.50
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.50
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.50
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.51
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.51
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.51
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.51
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.51
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.51
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.51
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.51
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.51
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.51
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.52
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.52
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.52
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.52
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.52
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.52
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.52
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.52
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.52
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.52
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.52
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.52
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.52
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.52
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.52
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.52
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.52
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.52
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.52
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.52
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.52
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.52
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.52
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.52
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.52
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.52
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.52
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.52
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.52
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.52
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.52
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.52
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.52
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.52
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.52
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.52
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.52
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.52
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.52
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.52
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.53
+lookup bookid: 1 timeStamp: 2019.04.24.11.22.53
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.53
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.53
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.53
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.53
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.53
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.53
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.53
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.53
+seach topic: distributed_systems timeStamp: 2019.04.24.11.22.53
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.11.22.53
