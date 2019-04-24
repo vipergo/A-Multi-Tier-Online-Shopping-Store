@@ -18,6 +18,7 @@ class CatalogServer {
 		//catalog side cache with strong consistency with DB
 		private ConcurrentHashMap<Integer, Integer> cache = new ConcurrentHashMap<>();
 		private final ReadWriteLock readWriteLock = new ReentrantReadWriteLock();
+		private final ReentrantLock logLock = new ReentrantLock();
 
 		public String server_id;
 		private String replica_ip;
@@ -32,7 +33,7 @@ class CatalogServer {
 			initDB(server_id);
 			sync();
 			initCache();
-			//createLogFile();
+			createLogFile();
 		}
 
 		//start server
@@ -44,7 +45,7 @@ class CatalogServer {
 				String param = req.queryParams("id");
 				int id = Integer.parseInt(param);
 				Integer quan = query(id);
-				//writeToLog("lookup bookid: "+param+" title: "+b.getTitle());
+				writeToLog("lookup bookid: "+param);
 				Map<String,Object> result = new HashMap<String,Object>();
 				result.put("cur_quantity", quan);
 				return result;
@@ -53,7 +54,7 @@ class CatalogServer {
 			//search by topic
 			get("/search",(req, res) ->{
 				String topic = req.queryParams("topic");
-				//writeToLog("seach topic: "+topic);
+				writeToLog("seach topic: "+topic);
 				Map<String,Object> result = new HashMap<String,Object>();
 				int[] id_list = queryByTopic(topic);
 				query_batch(id_list, result);
@@ -78,11 +79,12 @@ class CatalogServer {
 					result.put("cur_quantity", new_quantity);
 					result.put("result", "success");
 					readWriteLock.writeLock().unlock();
+					writeToLog("update bookId: "+param1+" quantity: "+param2+" success");
 				} else {
 					readWriteLock.writeLock().unlock();
 					result.put("cur_quantity", query_quan);
 					result.put("result", "outStock");
-					//writeToLog("update bookId: "+param1+" quantity: "+param2+" Update Failed");
+					writeToLog("update bookId: "+param1+" quantity: "+param2+" outStock");
 				}
 
 				return result;
@@ -166,7 +168,7 @@ class CatalogServer {
 
 		//create log file to store printed messages
 		public void createLogFile(){
-			log = new File("./catalog_log"+this.server_id+".txt");
+			log = new File("./print_logs/catalog_log"+this.server_id+".txt");
 			try{
 				if(!log.exists()){
 					log.createNewFile();
@@ -183,8 +185,9 @@ class CatalogServer {
 
 		//write printed message to log file
 		public void writeToLog(String s){
+			logLock.lock();
 			try{
-				FileWriter fw = new FileWriter("catalog_log"+this.server_id+".txt", true);
+				FileWriter fw = new FileWriter(log, true);
 				fw.write(s);
 				String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
 				fw.write(" timeStamp: "+timeStamp);
@@ -193,6 +196,8 @@ class CatalogServer {
 				fw.close();
 			} catch (IOException ex) {
 	            ex.printStackTrace();
+	        } finally{
+	        	logLock.unlock();
 	        }
 		}
 }

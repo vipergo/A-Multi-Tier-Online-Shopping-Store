@@ -3,6 +3,8 @@ package lab3;
 import static spark.Spark.*;
 import static lab3.JsonUtil.*;
 import static lab3.HttpUtil.*;
+
+import java.util.concurrent.locks.ReentrantLock;
 import java.util.*;
 import java.io.File;
 import java.io.IOException;
@@ -18,12 +20,14 @@ public class OrderServer {
 	private String cat_server_ip;
 	private String frontend_ip;
 
+	private final ReentrantLock Lock = new ReentrantLock();
+
 	//constructor
 	public OrderServer(String server_id, String cat_server_ip, String frontend_ip){
 		this.server_id = server_id;
 		this.cat_server_ip = cat_server_ip;
 		this.frontend_ip = frontend_ip;
-		//createOrderLogFile();
+		createOrderLogFile();
 		//buy_timeLog = new File("./time_logs/orderServer_buy_timeLog.txt");
 	}
 
@@ -44,11 +48,11 @@ public class OrderServer {
 
 			if(buyResponse==null) {
 				result.put("result", "fail");
-				//writeToLog("Book id: "+id_str+" Quantity: "+quantity_str+" sell status: fail");
+				writeToLog("Book id: "+id_str+" Quantity: "+quantity_str+" sell status: fail");
 			} else {
 				result = buyResponse.json();
 				invalidFontendCache(id_str);
-				//writeToLog("Book id: "+id_str+" Quantity: "+quantity_str+" after sell: "+result.get("cur_quantity")+" sell status: "+result.get("result"));
+				writeToLog("Book id: "+id_str+" Quantity: "+quantity_str+" after sell: "+result.get("cur_quantity")+" sell status: "+result.get("result"));
 			}
 
 			return result;
@@ -73,7 +77,7 @@ public class OrderServer {
 
 	//create log to store the request messages
 	public void createOrderLogFile(){
-		orderLog = new File("./order_log"+this.server_id+".txt");
+		orderLog = new File("./print_logs/order_log"+this.server_id+".txt");
 		try{
 			if(!orderLog.exists()){
 				orderLog.createNewFile();
@@ -90,8 +94,9 @@ public class OrderServer {
 
 	//write to the log file
 	public void writeToLog(String s){
+		Lock.lock();
 		try{
-			FileWriter fw = new FileWriter("order_log"+this.server_id+".txt", true);
+			FileWriter fw = new FileWriter(orderLog, true);
 			fw.write(s);
 			String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
 			fw.write(" timeStamp: "+timeStamp);
@@ -100,6 +105,8 @@ public class OrderServer {
 			fw.close();
 		} catch (IOException ex) {
             ex.printStackTrace();
+        } finally {
+        	Lock.unlock();
         }
 	}
 

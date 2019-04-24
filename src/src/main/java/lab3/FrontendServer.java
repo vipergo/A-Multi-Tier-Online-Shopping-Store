@@ -37,6 +37,7 @@ public class FrontendServer {
 		//lookup_timeLog = new File("./time_logs/frontend_lookup_timeLog.txt");
 		//search_timeLog = new File("./time_logs/frontend_search_timeLog.txt");
 		//buy_timeLog = new File("./time_logs/frontend_buy_timeLog.txt");
+		heartBeat(0);
 		heartBeat(1);
 	}
 
@@ -239,7 +240,7 @@ public class FrontendServer {
 	private void heartBeat(int cluster_id){
 		Runnable heart = () -> {
 		    while(true){
-		    	System.out.println(available_cluster.size());
+		    	//System.out.println(available_cluster.size());
 		    	try{
 		    		Thread.sleep(5000);
 		    	}catch (Exception e) {
