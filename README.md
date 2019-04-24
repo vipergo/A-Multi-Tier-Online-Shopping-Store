@@ -12,17 +12,19 @@ DO NOT set up on localhost!!!
 
 For edlab setup:
 On edlab 1
-java -jar lab2.jar FrontendServer 128.119.243.164 128.119.243.168
+java -jar lab3.jar CatalogServer 0 128.119.243.164
+java -jar lab3.jar OrderServer 0 128.119.243.147 128.119.243.168
 On edlab 2
-java -jar lab2.jar CatalogServer
+java -jar lab3.jar CatalogServer 1 128.119.243.147
+java -jar lab3.jar OrderServer 1 128.119.243.164 128.119.243.168
 On edlab 3
-java -jar lab2.jar OrderServer 128.119.243.164
+java -jar lab3.jar FrontendServer 128.119.243.147 128.119.243.147 128.119.243.164 128.119.243.164
 On edlab 7
-java -jar lab2.jar client 128.119.243.147 1
+java -jar lab3.jar Client 128.119.243.168 1
 
-elnux1.cs.umass.edu 128.119.243.147 FrontendServer
-elnux2.cs.umass.edu 128.119.243.164 CatalogServer
-elnux3.cs.umass.edu 128.119.243.168 OrderServer
+elnux1.cs.umass.edu 128.119.243.147 cluster0
+elnux2.cs.umass.edu 128.119.243.164 cluster1
+elnux3.cs.umass.edu 128.119.243.168 FrontendServer
 elnux7.cs.umass.edu 128.119.243.175 client
 
-The source code is in src/src/main/java/lab2_three_mid
+The source code is in src/src/main/java/lab3

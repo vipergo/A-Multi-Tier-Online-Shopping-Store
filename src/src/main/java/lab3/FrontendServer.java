@@ -1,8 +1,5 @@
 package lab3;
 
-import java.io.File;
-import java.io.IOException;
-import java.io.FileWriter;
 import java.util.*;
 import java.util.concurrent.locks.ReentrantLock;
 import java.util.concurrent.ConcurrentHashMap;
@@ -28,8 +25,8 @@ public class FrontendServer {
 		String cat_server_ip1, String order_server_ip1){
 		this.servers_ip[0][0] = cat_server_ip0;
 		this.servers_ip[0][1] = order_server_ip0;
-		this.servers_ip[1][0] = cat_server_ip0;
-		this.servers_ip[1][1] = order_server_ip0;
+		this.servers_ip[1][0] = cat_server_ip1;
+		this.servers_ip[1][1] = order_server_ip1;
 		available_cluster.add(0);
 		available_cluster.add(1);
 
@@ -59,8 +56,8 @@ public class FrontendServer {
 		get("/buy",(req, res) ->{
 			String quantity_str = req.queryParams("quantity");
 			String id_str = req.queryParams("id");
-			int id = Integer.parseInt(id_str);
-			int quantity = Integer.parseInt(quantity_str);
+			//int id = Integer.parseInt(id_str);
+			//int quantity = Integer.parseInt(quantity_str);
 			/*
 			long startTime = System.currentTimeMillis();
 			Response orderServerResponse = request("GET","http://"+order_server_ip+":3801/buy?id="+id_str+"&"+"quantity="+quantity_str);
