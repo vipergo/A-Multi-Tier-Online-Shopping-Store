@@ -14,10 +14,12 @@ public class OrderServer {
 	private File orderLog;
 	private File buy_timeLog;
 	private String cat_server_ip;
+	private String frontend_ip;
 
 	//constructor
-	public OrderServer(String cat_server_ip){
+	public OrderServer(String cat_server_ip, String frontend_ip){
 		this.cat_server_ip = cat_server_ip;
+		this.frontend_ip = frontend_ip;
 		//createOrderLogFile();
 		//buy_timeLog = new File("./time_logs/orderServer_buy_timeLog.txt");
 	}
@@ -27,7 +29,7 @@ public class OrderServer {
 
 		get("/buy",(req, res) ->{
 			String quantity_str = req.queryParams("quantity");
-			int quantity = Integer.parseInt(quantity_str);
+			//int quantity = Integer.parseInt(quantity_str);
 			String id_str = req.queryParams("id");
 
 			Map<String,Object> result = new HashMap<String, Object>();
@@ -42,15 +44,28 @@ public class OrderServer {
 				//writeToLog("Book id: "+id_str+" Quantity: "+quantity_str+" sell status: fail");
 			} else {
 				result = buyResponse.json();
+				invalidFontendCache(id_str);
 				//writeToLog("Book id: "+id_str+" Quantity: "+quantity_str+" after sell: "+result.get("cur_quantity")+" sell status: "+result.get("result"));
 			}
 
 			return result;
 		},json());
 
+		get("/heartbeat",(req, res) -> {
+				return true;
+		}, json());
+
 		after((req, res) -> {
 			res.type("application/json");
 		});
+	}
+
+	public boolean invalidFontendCache(String id_str){
+			Response resp = request("GET","http://"+this.frontend_ip+":3800/invalid?id="+id_str);
+			if(resp==null) System.out.println("frontend is not up");
+			else if(resp.status==200) return true;
+			else return false;
+			return true;
 	}
 
 	//create log to store the request messages

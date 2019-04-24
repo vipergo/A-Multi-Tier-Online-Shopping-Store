@@ -21,19 +21,17 @@ class CatalogServer {
 		private final ReadWriteLock readWriteLock = new ReentrantReadWriteLock();
 
 		private String replica_ip;
-		private String frontend_ip;
 
 		//for catalog server synchronization
 		private boolean sync = true;
 
 		//constructor
-		public CatalogServer(String replica_ip, String frontend_ip) {
+		public CatalogServer(String replica_ip) {
 			initDB();
 			sync();
 			initCache();
 			//createLogFile();
 			this.replica_ip = replica_ip;
-			this.frontend_ip = frontend_ip;
 		}
 
 		//start server
@@ -79,7 +77,6 @@ class CatalogServer {
 					result.put("cur_quantity", new_quantity);
 					result.put("result", "success");
 					readWriteLock.writeLock().unlock();
-					invalidFontendCache(param1);
 				} else {
 					readWriteLock.writeLock().unlock();
 					result.put("cur_quantity", query_quan);
@@ -99,6 +96,10 @@ class CatalogServer {
 				}
 				readWriteLock.readLock().unlock();
 				return result;
+			}, json());
+
+			get("/heartBeat",(req, res) -> {
+				return true;
 			}, json());
 
 			//changes every response to application/json
@@ -141,14 +142,6 @@ class CatalogServer {
 				int[] arr = {5,6,7};
 				return arr;
 			} else return new int[0];
-		}
-
-		public boolean invalidFontendCache(String id_str){
-			Response resp = request("GET","http://"+this.frontend_ip+":3800/invalid?id="+id_str);
-			if(resp==null) System.out.println("frontend is not up");
-			else if(resp.status==200) return true;
-			else return false;
-			return true;
 		}
 
 		public void sync(){

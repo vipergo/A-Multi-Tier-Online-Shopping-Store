@@ -16,7 +16,7 @@ public class FrontendServer {
 	//private File search_timeLog;
 	//private File buy_timeLog;
 	private String[][] servers_ip = new String[2][2];
-	private int down_cluster_id = 2;
+	private ClusterClass available_cluster = new ClusterClass();
 	private Random rand = new Random();
 
 	private Map<Integer, Book> cache = new HashMap<Integer, Book>(7);
@@ -24,24 +24,31 @@ public class FrontendServer {
 
 	private final ReentrantLock Lock = new ReentrantLock();
 
-	public FrontendServer(String cat_server_ip0, String order_server_ip0){
+	public FrontendServer(String cat_server_ip0, String order_server_ip0,
+		String cat_server_ip1, String order_server_ip1){
 		this.servers_ip[0][0] = cat_server_ip0;
-		this.servers_ip[0][0] = order_server_ip0;
+		this.servers_ip[0][1] = order_server_ip0;
+		this.servers_ip[1][0] = cat_server_ip0;
+		this.servers_ip[1][1] = order_server_ip0;
+		available_cluster.add(0);
+		available_cluster.add(1);
+
 		initCache();
 		//lookup_timeLog = new File("./time_logs/frontend_lookup_timeLog.txt");
 		//search_timeLog = new File("./time_logs/frontend_search_timeLog.txt");
 		//buy_timeLog = new File("./time_logs/frontend_buy_timeLog.txt");
-		//heartBeat(0);
+		heartBeat(1);
 	}
 
 	public int load_balancing(){
-		if(this.down_cluster_id==2) return rand.nextInt(2);
-		else if(this.down_cluster_id==0) return 1;
-		else return 0;
+		int next_cluster_index = rand.nextInt(available_cluster.size());
+		int next_cluster_id = available_cluster.get(next_cluster_index).intValue();
+		System.out.println(next_cluster_id);
+		return next_cluster_id;
 	}
 
 	public void report_crash(int id){
-		this.down_cluster_id = id;
+		available_cluster.remove(id);
 	}
 
 	public void start() {
@@ -60,8 +67,28 @@ public class FrontendServer {
 			//recordTime(endTime-startTime, buy_timeLog);
 			*/
 			Map<String,Object> result = new HashMap<String,Object>();
-			Response orderServerResponse = request("GET","http://"+order_server_ip+":3801/buy?id="+id_str+"&"+"quantity="+quantity_str);
-			Response orderServerResponse = request("GET","http://"+order_server_ip+":3801/buy?id="+id_str+"&"+"quantity="+quantity_str);
+			Lock.lock();
+			Response orderServer0Response = request("GET","http://"+servers_ip[0][1]+":3801/buy?id="+id_str+"&"+"quantity="+quantity_str);
+			Response orderServer1Response = request("GET","http://"+servers_ip[1][1]+":3801/buy?id="+id_str+"&"+"quantity="+quantity_str);
+			if(orderServer0Response!=null){
+				Map<String,Object> response0 = orderServer0Response.json();
+				String flag0 = (String)response0.get("result");
+				if(flag0.equals("fail")) report_crash(0);
+				else{
+					result = response0;
+				}
+			} else if(orderServer1Response!=null){
+				Map<String,Object> response1 = orderServer1Response.json();
+				String flag1 = (String)response1.get("result");
+				if(flag1.equals("fail")) report_crash(1);
+				else{
+					result = response1;
+				}
+			} else {
+				System.out.println("both ordersever are done...");
+			}
+			Lock.unlock();
+
 			return result;
 		},json());
 
@@ -91,7 +118,7 @@ public class FrontendServer {
 					}
 
 					Map<String,Object> response = catServerResponse.json();
-					System.out.println(response.get("cur_quantity"));
+
 					int cur_quan = ((Double)response.get("cur_quantity")).intValue();
 					result.put("cur_quantity", cur_quan);
 					cacheStock.put(id, cur_quan);
@@ -141,22 +168,26 @@ public class FrontendServer {
 					if(catServerResponse==null) {
 						System.out.println("Catalog Server Down "+Integer.toString(target_cluster));
 						report_crash(target_cluster);
+						target_cluster = load_balancing();
 						catServerResponse = request("GET","http://"+servers_ip[target_cluster][0]+":3154/search?topic="+topic);
 					}
 					Map<String, Object> resObj = catServerResponse.json();
 					for(Map.Entry<String,Object> entry : resObj.entrySet()){
 						result.get(entry.getKey()).put("cur_quantity", entry.getValue());
 					}
-
-
-
 				}
 			} else{
 				res.redirect("/404");
 			}
 
-
 			return result;
+		},json());
+
+		get("/invalid",(req, res) ->{
+			String id_str = req.queryParams("id");
+			int id = Integer.parseInt(id_str);
+			cacheStock.remove(id);
+			return true;
 		},json());
 
 		get("/404",(req, res) ->{
@@ -208,7 +239,7 @@ public class FrontendServer {
 	private void heartBeat(int cluster_id){
 		Runnable heart = () -> {
 		    while(true){
-		    	System.out.println(down_cluster_id);
+		    	System.out.println(available_cluster.size());
 		    	try{
 		    		Thread.sleep(5000);
 		    	}catch (Exception e) {
@@ -217,11 +248,11 @@ public class FrontendServer {
 				}
 
 	    		Response heartBeatCat = request("GET","http://"+servers_ip[cluster_id][0]+":3154/heartBeat");
-	    		Response heartBeatOrder = request("GET","http://"+servers_ip[cluster_id][1]+":3801/heartBeat");
-	    		if(heartBeatCat==null || heartBeatOrder==null){
+	    		//Response heartBeatOrder = request("GET","http://"+servers_ip[cluster_id][1]+":3801/heartBeat");
+	    		if(heartBeatCat==null){
 	    			report_crash(cluster_id);
 	    		} else {
-	    			if(down_cluster_id==cluster_id) down_cluster_id=2;
+	    			available_cluster.add(cluster_id);
 	    		}
 		    }
 		};

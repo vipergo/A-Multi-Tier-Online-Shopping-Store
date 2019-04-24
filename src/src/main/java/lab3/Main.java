@@ -28,11 +28,11 @@ public class Main {
 			System.out.println("please type CatalogServer/OrderServer/FrontendServer/client");
 		}
 		*/
-		//FrontendServer f_server = new FrontendServer("localhost", "localhost");
+		//FrontendServer f_server = new FrontendServer("localhost", "localhost", "localhost", "localhost");
 		//f_server.start();
-		//CatalogServer cat_server = new CatalogServer("localhost", "localhost");
+		//CatalogServer cat_server = new CatalogServer("localhost");
 		//cat_server.start();
-		OrderServer o_server = new OrderServer("localhost");
+		OrderServer o_server = new OrderServer("localhost", "localhost");
 		o_server.start();
 	}
 }
