@@ -1,10 +1,12 @@
 package lab3;
 import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.concurrent.locks.ReentrantLock;
 
 public class ClusterClass {
 	private ArrayList<Integer> cluster_list;
 	private HashSet<Integer> cluster_set;
+	private final ReentrantLock Lock = new ReentrantLock();
 
 	ClusterClass(){
 		cluster_list = new ArrayList<>();
@@ -12,10 +14,16 @@ public class ClusterClass {
 	}
 
 	public void add(int id){
-		if(!cluster_set.contains(id)){
-			cluster_list.add(id);
-			cluster_set.add(id);
+		Lock.lock();
+		try{
+			if(!cluster_set.contains(id)){
+				cluster_list.add(id);
+				cluster_set.add(id);
+			}
+		} finally {
+			Lock.unlock();
 		}
+
 	}
 
 	public int size(){
@@ -27,15 +35,14 @@ public class ClusterClass {
 	}
 
 	public void remove(int id){
-		if(cluster_set.contains(id)){
-			cluster_list.remove(new Integer(id));
-			cluster_set.remove(id);
+		Lock.lock();
+		try{
+			if(cluster_set.contains(id)){
+				cluster_list.remove(new Integer(id));
+				cluster_set.remove(id);
+			}
+		}finally {
+			Lock.unlock();
 		}
-		/*
-		for(Integer x : cluster_list){
-			System.out.println("===");
-			System.out.println(x);
-		}
-		*/
 	}
 }
