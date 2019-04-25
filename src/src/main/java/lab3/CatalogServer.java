@@ -20,6 +20,7 @@ class CatalogServer {
 		private final ReadWriteLock readWriteLock = new ReentrantReadWriteLock();
 		private final ReentrantLock logLock = new ReentrantLock();
 
+		public int port;
 		public String server_id;
 		private String replica_ip;
 
@@ -29,8 +30,9 @@ class CatalogServer {
 
 
 		//constructor
-		public CatalogServer(String server_id, String replica_ip) {
+		public CatalogServer(String server_id, String port, String replica_ip) {
 			this.server_id = server_id;
+			this.port = Integer.valueOf(port);
 			this.replica_ip = replica_ip;
 			initDB(server_id);
 			sync();
@@ -42,7 +44,7 @@ class CatalogServer {
 
 		//start server
 		public void start() {
-			port(3154);
+			port(this.port);
 
 			//query by item number
 			get("/lookup",(req, res) -> {
@@ -165,7 +167,7 @@ class CatalogServer {
 		}
 
 		public void sync(){
-			Response syncRes = request("GET","http://"+this.replica_ip+":3154/synchronization");
+			Response syncRes = request("GET","http://"+this.replica_ip+"/synchronization");
 			if(syncRes!=null){
 				Map<String, Object> result = syncRes.json();
 				readWriteLock.writeLock().lock();
@@ -194,7 +196,7 @@ class CatalogServer {
 					}
 					int addStock_id = rand.nextInt(7)+1;
 					readWriteLock.writeLock().lock();
-		    		Response addStockRes = request("GET","http://"+replica_ip+":3154/addStock?id="+Integer.toString(addStock_id));
+		    		Response addStockRes = request("GET","http://"+replica_ip+"/addStock?id="+Integer.toString(addStock_id));
 					int new_quantity = cache.get(addStock_id) + 5;
 					UpdateDB(addStock_id, new_quantity, this.server_id);
     				cache.put(addStock_id, new_quantity);

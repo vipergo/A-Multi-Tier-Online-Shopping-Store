@@ -3,23 +3,23 @@ package lab3;
 public class Main {
 	public static void main(String[] args) {
 		if("CatalogServer".equals(args[0])){
-												//String server_id, String replica_ip
-			CatalogServer cat_server = new CatalogServer(args[1], args[2]);
+												// server_id, port, replica_ip
+			CatalogServer cat_server = new CatalogServer(args[1], args[2], args[3]);
 			cat_server.start();
 		}
 		else if("OrderServer".equals(args[0])){
-								//String server_id, String cat_server_ip, String frontend_ip
-			OrderServer o_server = new OrderServer(args[1], args[2], args[3]);
+								// server_id, port, cat_server_ip, frontend_ip
+			OrderServer o_server = new OrderServer(args[1], args[2], args[3], args[4]);
 			o_server.start();
 		}
 		else if("FrontendServer".equals(args[0])){
-					//String cat_server_ip0, String order_server_ip0,
-				//String cat_server_ip1, String order_server_ip1
-			FrontendServer f_server = new FrontendServer(args[1], args[2], args[3], args[4]);
+					//port,  cat_server_ip0,  order_server_ip0,
+				// cat_server_ip1,  order_server_ip1
+			FrontendServer f_server = new FrontendServer(args[1], args[2], args[3], args[4], args[5]);
 			f_server.start();
 		}
 		else if("Client".equals(args[0])){
-				//String name, String frontend_server_ip
+				// name,  frontend_server_ip
 			for(int i=0; i<Integer.parseInt(args[2]); i++){
 				new Client(Integer.toString(i), args[1]);
 			}

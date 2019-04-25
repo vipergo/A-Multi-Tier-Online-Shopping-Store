@@ -33,7 +33,8 @@ public class Client {
 		createLogFile(search_timeLog);
 		createLogFile(buy_timeLog);
 		createLogFile(clientLog);
-		this.start();
+		//this.start();
+		testCacheOverhead();
 	}
 
 	//allow client to send requests concurrently
@@ -41,7 +42,7 @@ public class Client {
 		Runnable beep = () -> {
 			System.out.println("I'm client "+client_name);
 			int counter = 0;
-			Random rand = new Random();
+			//Random rand = new Random();
 			while(counter<1100){
 				int mod = counter%11;
 				if(mod==10) buyReq(1, 1);
@@ -59,11 +60,25 @@ public class Client {
 		};
 		Thread t = new Thread(beep);
 	    t.start();
+	}
 
+	public void testCacheOverhead(){
+		Runnable beep = () -> {
+			System.out.println("I'm test client "+client_name);
+			int counter = 0;
+			while(counter<400){
+				int mod = counter%2;
+				if(mod==0) buyReq(1, 1);
+				else lookupReq(1);;
+	    		counter++;
+			}
+		};
+		Thread t = new Thread(beep);
+	    t.start();
 	}
 
 	public Map<String, Object> lookupReq(int id){
-		String urlString =  "http://"+frontend_server_ip+":3800/lookup?id="+String.valueOf(id);
+		String urlString =  "http://"+frontend_server_ip+"/lookup?id="+String.valueOf(id);
 
 		long startTime = System.currentTimeMillis();
 		Response serverResponse = request("GET",urlString);
@@ -75,7 +90,7 @@ public class Client {
 	}
 
 	public Map<String, Object> searchReq(String topic){
-		String urlString =  "http://"+frontend_server_ip+":3800/search?topic="+topic;
+		String urlString =  "http://"+frontend_server_ip+"/search?topic="+topic;
 
 		long startTime = System.currentTimeMillis();
         Response serverResponse = request("GET",urlString);
@@ -89,7 +104,7 @@ public class Client {
 
 	public Map<String, Object> buyReq(int id, int quantity){
 
-		String urlString =  "http://"+frontend_server_ip+":3800/buy?id="+String.valueOf(id)+"&quantity="+String.valueOf(quantity);
+		String urlString =  "http://"+frontend_server_ip+"/buy?id="+String.valueOf(id)+"&quantity="+String.valueOf(quantity);
 
 		long startTime = System.currentTimeMillis();
         Response serverResponse = request("GET",urlString);

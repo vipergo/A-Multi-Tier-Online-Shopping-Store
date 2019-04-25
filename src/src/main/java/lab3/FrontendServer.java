@@ -11,6 +11,7 @@ import static lab3.HttpUtil.*;
 public class FrontendServer {
 
 	private String[][] servers_ip = new String[2][2];
+	private int port;
 	private ClusterClass available_cluster = new ClusterClass();
 	private Random rand = new Random();
 
@@ -19,12 +20,13 @@ public class FrontendServer {
 
 	private final ReentrantLock Lock = new ReentrantLock();
 
-	public FrontendServer(String cat_server_ip0, String order_server_ip0,
+	public FrontendServer(String port, String cat_server_ip0, String order_server_ip0,
 		String cat_server_ip1, String order_server_ip1){
 		this.servers_ip[0][0] = cat_server_ip0;
 		this.servers_ip[0][1] = order_server_ip0;
 		this.servers_ip[1][0] = cat_server_ip1;
 		this.servers_ip[1][1] = order_server_ip1;
+		this.port = Integer.valueOf(port);
 		available_cluster.add(0);
 		available_cluster.add(1);
 
@@ -48,24 +50,17 @@ public class FrontendServer {
 	}
 
 	public void start() {
-		port(3800);
+		port(this.port);
 
 		//receive and send buy request and response
 		get("/buy",(req, res) ->{
 			String quantity_str = req.queryParams("quantity");
 			String id_str = req.queryParams("id");
-			//int id = Integer.parseInt(id_str);
-			//int quantity = Integer.parseInt(quantity_str);
-			/*
-			long startTime = System.currentTimeMillis();
-			Response orderServerResponse = request("GET","http://"+order_server_ip+":3801/buy?id="+id_str+"&"+"quantity="+quantity_str);
-			long endTime = System.currentTimeMillis();
-			//recordTime(endTime-startTime, buy_timeLog);
-			*/
+
 			Map<String,Object> result = new HashMap<String,Object>();
 			Lock.lock();
-			Response orderServer0Response = request("GET","http://"+servers_ip[0][1]+":3801/buy?id="+id_str+"&"+"quantity="+quantity_str);
-			Response orderServer1Response = request("GET","http://"+servers_ip[1][1]+":3801/buy?id="+id_str+"&"+"quantity="+quantity_str);
+			Response orderServer0Response = request("GET","http://"+servers_ip[0][1]+"/buy?id="+id_str+"&"+"quantity="+quantity_str);
+			Response orderServer1Response = request("GET","http://"+servers_ip[1][1]+"/buy?id="+id_str+"&"+"quantity="+quantity_str);
 			if(orderServer0Response!=null){
 				Map<String,Object> response0 = orderServer0Response.json();
 				String flag0 = (String)response0.get("result");
@@ -105,12 +100,12 @@ public class FrontendServer {
 				if(bookStock==null){
 					int target_cluster = load_balancing();
 
-					Response catServerResponse = request("GET","http://"+servers_ip[target_cluster][0]+":3154/lookup?id="+param);
+					Response catServerResponse = request("GET","http://"+servers_ip[target_cluster][0]+"/lookup?id="+param);
 					if(catServerResponse==null){
 						System.out.println("Catalog Server Down "+Integer.toString(target_cluster));
 			    		report_crash(target_cluster);
 			    		target_cluster = load_balancing();
-			    		catServerResponse = request("GET","http://"+servers_ip[target_cluster][0]+":3154/lookup?id="+param);
+			    		catServerResponse = request("GET","http://"+servers_ip[target_cluster][0]+"/lookup?id="+param);
 					}
 
 					Map<String,Object> response = catServerResponse.json();
@@ -160,12 +155,12 @@ public class FrontendServer {
 					}
 					int target_cluster = load_balancing();
 
-					Response catServerResponse = request("GET","http://"+servers_ip[target_cluster][0]+":3154/search?topic="+topic);
+					Response catServerResponse = request("GET","http://"+servers_ip[target_cluster][0]+"/search?topic="+topic);
 					if(catServerResponse==null) {
 						System.out.println("Catalog Server Down "+Integer.toString(target_cluster));
 						report_crash(target_cluster);
 						target_cluster = load_balancing();
-						catServerResponse = request("GET","http://"+servers_ip[target_cluster][0]+":3154/search?topic="+topic);
+						catServerResponse = request("GET","http://"+servers_ip[target_cluster][0]+"/search?topic="+topic);
 					}
 					Map<String, Object> resObj = catServerResponse.json();
 					for(Map.Entry<String,Object> entry : resObj.entrySet()){
@@ -243,8 +238,8 @@ public class FrontendServer {
 				    System.out.println(e);
 				}
 
-	    		Response heartBeatCat = request("GET","http://"+servers_ip[cluster_id][0]+":3154/heartBeat");
-	    		//Response heartBeatOrder = request("GET","http://"+servers_ip[cluster_id][1]+":3801/heartBeat");
+	    		Response heartBeatCat = request("GET","http://"+servers_ip[cluster_id][0]+"/heartBeat");
+
 	    		if(heartBeatCat==null){
 	    			report_crash(cluster_id);
 	    		} else {

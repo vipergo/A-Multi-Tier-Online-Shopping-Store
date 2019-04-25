@@ -1,0 +1,7 @@
+FROM java:8
+WORKDIR /
+RUN mkdir print_logs
+RUN mkdir time_logs
+ADD lab3.jar ./
+EXPOSE 3154 3800 3801 3900 3901
+CMD java -jar lab3.jar CatalogServer 1 3155 REPLACE_ME:3154

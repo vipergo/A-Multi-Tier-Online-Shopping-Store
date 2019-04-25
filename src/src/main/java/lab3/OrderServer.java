@@ -16,22 +16,24 @@ public class OrderServer {
 	private File orderLog;
 
 	public String server_id;
+	private int port;
 	private String cat_server_ip;
 	private String frontend_ip;
 
 	private final ReentrantLock Lock = new ReentrantLock();
 
 	//constructor
-	public OrderServer(String server_id, String cat_server_ip, String frontend_ip){
+	public OrderServer(String server_id, String port, String cat_server_ip, String frontend_ip){
 		this.server_id = server_id;
 		this.cat_server_ip = cat_server_ip;
 		this.frontend_ip = frontend_ip;
+		this.port = Integer.valueOf(port);
 		createOrderLogFile();
 		//buy_timeLog = new File("./time_logs/orderServer_buy_timeLog.txt");
 	}
 
 	public void start() {
-		port(3801);
+		port(this.port);
 
 		get("/buy",(req, res) ->{
 			String quantity_str = req.queryParams("quantity");
@@ -41,7 +43,7 @@ public class OrderServer {
 			Map<String,Object> result = new HashMap<String, Object>();
 
 			//long startTime = System.currentTimeMillis();
-			Response buyResponse = request("GET","http://"+cat_server_ip+":3154/buy?id="+id_str+"&quantity="+quantity_str);
+			Response buyResponse = request("GET","http://"+cat_server_ip+"/buy?id="+id_str+"&quantity="+quantity_str);
 			//long endTime = System.currentTimeMillis();
 			//recordTime(endTime-startTime, buy_timeLog);
 
@@ -67,7 +69,7 @@ public class OrderServer {
 	}
 
 	public boolean invalidFontendCache(String id_str){
-			Response resp = request("GET","http://"+this.frontend_ip+":3800/invalid?id="+id_str);
+			Response resp = request("GET","http://"+this.frontend_ip+"/invalid?id="+id_str);
 			if(resp==null) System.out.println("frontend is not up");
 			else if(resp.status==200) return true;
 			else return false;
