@@ -1,294 +1,200 @@
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.30
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.30
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.30
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.31
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.31
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.31
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.31
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.31
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.31
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.31
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.31
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.31
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.31
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.31
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.31
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.31
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.31
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.31
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.31
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.31
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.31
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.31
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.31
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.31
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.31
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.31
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.31
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.32
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.32
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.32
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.32
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.32
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.32
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.32
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.32
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.32
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.32
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.32
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.32
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.32
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.32
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.32
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.32
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.32
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.32
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.32
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.32
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.33
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.33
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.33
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.33
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.33
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.33
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.33
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.33
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.33
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.33
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.33
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.33
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.33
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.33
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.33
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.33
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.33
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.33
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.33
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.33
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.33
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.33
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.33
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.33
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.33
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.33
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.33
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.33
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.33
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.33
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.33
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.34
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.34
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.34
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.34
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.34
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.34
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.34
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.34
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.34
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.34
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.34
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.34
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.34
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.34
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.34
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.34
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.34
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.34
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.34
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.34
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.34
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.34
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.34
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.34
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.34
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.34
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.34
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.34
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.34
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.34
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.35
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.35
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.35
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.35
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.35
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.35
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.35
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.35
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.35
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.35
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.35
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.35
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.35
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.35
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.35
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.35
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.35
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.35
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.35
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.35
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.35
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.35
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.35
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.35
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.35
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.35
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.35
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.35
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.35
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.35
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.35
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.35
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.35
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.35
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.35
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.35
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.35
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.35
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.36
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.36
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.36
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.36
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.36
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.36
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.36
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.36
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.36
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.37
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.37
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.37
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.37
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.37
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.37
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.37
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.37
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.37
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.37
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.37
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.37
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.37
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.37
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.37
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.37
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.37
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.37
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.37
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.37
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.37
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.37
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.37
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.37
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.37
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.37
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.37
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.37
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.37
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.37
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.37
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.37
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.37
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.37
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.37
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.37
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.37
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.37
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.37
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.37
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.37
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.37
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.37
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.37
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.38
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.38
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.38
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.38
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.38
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.38
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.38
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.38
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.38
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.38
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.38
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.38
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.38
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.38
-lookup bookid: 1 timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.38
-seach topic: distributed_systems timeStamp: 2019.04.24.17.18.39
-update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.17.18.39
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.06
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.06
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.06
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.06
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.06
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.06
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.06
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.06
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.06
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.06
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.06
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.06
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.07
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.07
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.07
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.07
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.07
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.07
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.07
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.07
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.07
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.07
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.07
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.07
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.07
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.07
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.07
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.07
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.07
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.07
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.07
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.08
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.09
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.10
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.11
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.12
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.13
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
+update bookId: 1 quantity: 1 success timeStamp: 2019.04.24.21.32.14
