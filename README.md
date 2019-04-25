@@ -40,6 +40,7 @@ java -jar lab3.jar FrontendServer 3800 128.119.243.147:3154 128.119.243.147:3900
 On edlab 7
 java -jar lab3.jar Client 128.119.243.168:3800 1
 
+Edlab ip - cluster
 elnux1.cs.umass.edu 128.119.243.147 cluster0
 elnux2.cs.umass.edu 128.119.243.164 cluster1
 elnux3.cs.umass.edu 128.119.243.168 FrontendServer

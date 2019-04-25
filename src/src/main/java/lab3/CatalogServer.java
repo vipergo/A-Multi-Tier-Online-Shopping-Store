@@ -76,6 +76,7 @@ class CatalogServer {
 				Map<String,Object> result = new HashMap<String,Object>();
 				result.put("id", param1);
 
+				//only one update request will be executed
 				readWriteLock.writeLock().lock();
 				int query_quan = cache.get(id);
 				if(query_quan>=quantity){
@@ -96,9 +97,10 @@ class CatalogServer {
 				return result;
 			},json());
 
+			//send back info for previously crash cat server
 			get("/synchronization",(req, res) -> {
 				Map<String,Object> result = new HashMap<String,Object>();
-
+				//lock in case other thread update the DB and cache for consistency
 				readWriteLock.readLock().lock();
 				for(int i=1; i<8; i++){
 					result.put(Integer.toString(i), cache.get(i));
@@ -107,6 +109,7 @@ class CatalogServer {
 				return result;
 			}, json());
 
+			//keep sync with other server when new stock comes in
 			get("/addStock",(req, res) -> {
 				String param = req.queryParams("id");
 				int id = Integer.parseInt(param);
@@ -166,6 +169,7 @@ class CatalogServer {
 			} else return new int[0];
 		}
 
+		//when come back, get info from non-crash server to keep up
 		public void sync(){
 			Response syncRes = request("GET","http://"+this.replica_ip+"/synchronization");
 			if(syncRes!=null){
@@ -185,6 +189,7 @@ class CatalogServer {
 			}
 		}
 
+		//periodically add new stock and keep sync with other servers
 		private void newStock(){
 			Runnable add_stock = () -> {
 			    while(true){

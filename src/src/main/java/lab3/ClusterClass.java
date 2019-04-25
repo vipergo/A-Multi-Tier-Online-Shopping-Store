@@ -3,6 +3,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.concurrent.locks.ReentrantLock;
 
+//for constant time removing and random selecting a cluster id
 public class ClusterClass {
 	private ArrayList<Integer> cluster_list;
 	private HashSet<Integer> cluster_set;

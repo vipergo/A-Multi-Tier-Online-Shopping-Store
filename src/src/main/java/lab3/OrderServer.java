@@ -42,11 +42,9 @@ public class OrderServer {
 
 			Map<String,Object> result = new HashMap<String, Object>();
 
-			//long startTime = System.currentTimeMillis();
 			Response buyResponse = request("GET","http://"+cat_server_ip+"/buy?id="+id_str+"&quantity="+quantity_str);
-			//long endTime = System.currentTimeMillis();
-			//recordTime(endTime-startTime, buy_timeLog);
 
+			//record the order result and detect cat server failure
 			if(buyResponse==null) {
 				result.put("result", "fail");
 				writeToLog("Book id: "+id_str+" Quantity: "+quantity_str+" sell status: fail");
@@ -68,6 +66,7 @@ public class OrderServer {
 		});
 	}
 
+	//send to front end to invalidate cache
 	public boolean invalidFontendCache(String id_str){
 			Response resp = request("GET","http://"+this.frontend_ip+"/invalid?id="+id_str);
 			if(resp==null) System.out.println("frontend is not up");

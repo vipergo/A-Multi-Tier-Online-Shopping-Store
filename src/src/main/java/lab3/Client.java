@@ -33,8 +33,8 @@ public class Client {
 		createLogFile(search_timeLog);
 		createLogFile(buy_timeLog);
 		createLogFile(clientLog);
-		//this.start();
-		testCacheOverhead();
+		this.start();
+		//testCacheOverhead();
 	}
 
 	//allow client to send requests concurrently

@@ -39,6 +39,7 @@ public class FrontendServer {
 	}
 
 	public int load_balancing(){
+		//get new random cluster id based on the number of avaliable cluster
 		int next_cluster_index = rand.nextInt(available_cluster.size());
 		int next_cluster_id = available_cluster.get(next_cluster_index).intValue();
 		System.out.println(next_cluster_id);
@@ -58,7 +59,9 @@ public class FrontendServer {
 			String id_str = req.queryParams("id");
 
 			Map<String,Object> result = new HashMap<String,Object>();
+			//lock for consistency
 			Lock.lock();
+			//send buy request to all replicas
 			Response orderServer0Response = request("GET","http://"+servers_ip[0][1]+"/buy?id="+id_str+"&"+"quantity="+quantity_str);
 			Response orderServer1Response = request("GET","http://"+servers_ip[1][1]+"/buy?id="+id_str+"&"+"quantity="+quantity_str);
 			if(orderServer0Response!=null){
@@ -101,6 +104,7 @@ public class FrontendServer {
 					int target_cluster = load_balancing();
 
 					Response catServerResponse = request("GET","http://"+servers_ip[target_cluster][0]+"/lookup?id="+param);
+					//if the first request has no respsonse, report crash and re-send the request to another server
 					if(catServerResponse==null){
 						System.out.println("Catalog Server Down "+Integer.toString(target_cluster));
 			    		report_crash(target_cluster);
@@ -132,15 +136,11 @@ public class FrontendServer {
 		//receive and send search request and response
 		get("/search",(req, res) ->{
 			String topic = req.queryParams("topic");
-			/*
-			long startTime = System.currentTimeMillis();
-			Response catServerResponse = request("GET","http://"+cat_server_ip+":3154/search?topic="+topic);
-			long endTime = System.currentTimeMillis();
-			//recordTime(endTime-startTime, search_timeLog);
-			*/
+
 			Map<String,Map<String, Object>> result = new HashMap<String,Map<String, Object>>();
 			int[] search_ids = queryByTopic(topic);
 			if(search_ids.length>0){
+				//if all info can be fetch from the cache
 				if(search_cache(search_ids)){
 					for(int i : search_ids){
 						HashMap<String,Object> book_info = new HashMap<String,Object>();
@@ -148,13 +148,14 @@ public class FrontendServer {
 						result.put(Integer.toString(i), book_info);
 					}
 				} else {
+					//otherwise only put static info into the result object
 					for(int i : search_ids){
 						HashMap<String,Object> book_info = new HashMap<String,Object>();
 						book_from_cache(i, book_info, false);
 						result.put(Integer.toString(i), book_info);
 					}
 					int target_cluster = load_balancing();
-
+					//ask cat server for missing stock info
 					Response catServerResponse = request("GET","http://"+servers_ip[target_cluster][0]+"/search?topic="+topic);
 					if(catServerResponse==null) {
 						System.out.println("Catalog Server Down "+Integer.toString(target_cluster));
@@ -174,6 +175,7 @@ public class FrontendServer {
 			return result;
 		},json());
 
+		//invalidate cache
 		get("/invalid",(req, res) ->{
 			String id_str = req.queryParams("id");
 			int id = Integer.parseInt(id_str);
@@ -198,7 +200,7 @@ public class FrontendServer {
 		return cacheStock.get(id);
 	}
 
-	//for simplicity just hardcode
+	//get book ids for certain topic
 	private int[] queryByTopic(String topic){
 		if(topic.equals("distributed_systems")){
 			int[] arr = {1,2};
@@ -212,6 +214,7 @@ public class FrontendServer {
 		} else return new int[0];
 	}
 
+	//check if all need info is in the cache
 	private boolean search_cache(int[] index){
 		for(int i : index){
 			if(cacheStock.get(i)==null) return false;
@@ -219,6 +222,7 @@ public class FrontendServer {
 		return true;
 	}
 
+	//pack needed info in the json obj
 	private void book_from_cache(int i, HashMap<String, Object> result, boolean stock_cache){
 		Book targetBook = queryBookInfo(i);
 		result.put("title", targetBook.getTitle());
